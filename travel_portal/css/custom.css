@@ -1,0 +1,252 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2016, 7:33:21 PM
+    Author     : 
+*/
+
+body {
+    background-color: black;
+}
+
+h1,h2,h3,h4,h5,h6,#options,#opt {
+    color: #f29200;
+    text-shadow: 4px 4px 8px #000000;
+}
+#options2 {
+    color: #f29200;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin-left: -40px;
+}
+.loginheader{
+    width: 100%;
+    height: 100px;
+    background: black;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background: black;
+}
+.header img{
+    width: 23%;
+    height: 100px;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.header a {
+    margin-left: 31%;
+}
+.loginheader img{
+    width: 25%;
+    height: 50%;
+    margin-left: 40%;
+    margin-top: 40px;
+}
+.notvisible{
+    color: black;
+}
+ul {
+    list-style: none;
+}
+.parent {
+    margin-top: 70px;   
+    margin-left: 150px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    box-shadow: 2px 2px 4px #000000;
+    width: 80%;
+    height: 500px;
+    background: #0e4194;   
+}
+.loginparent {
+    margin-top: 60px;   
+    margin-left: 150px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    box-shadow: 2px 2px 4px #000000;
+    width: 80%;
+    height: 300px;    
+}
+.loginheader{
+    width: 100%;
+    height: 300px;
+}
+
+.bg-image {
+ 
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    opacity: 0.05;
+}
+.newapp{
+    margin-top: 50px;
+}
+
+.login {
+    opacity: 1;
+    position: absolute;
+    top: 150px;
+    left: 38%;
+    margin-top: 80px;    
+    width: 30%;
+}
+
+.message {
+    position: absolute;
+    top: 100px;
+    left: 30%;
+    width: 43%;    
+}
+
+.message #alert {
+    width: 100%;    
+}
+
+.content {
+    position: absolute;
+    top: 100px;
+    left: 28%;
+    width: 50%;
+
+
+}
+.man a:hover{
+    color: white;
+
+}
+
+.in_line {
+    width: 250px;
+    display: inline!important;
+}
+
+.right {
+    float: right;
+    
+    
+}
+
+.make-link {
+     background:none!important;
+     color: #1d73be;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     cursor: pointer;
+     margin-left: 40px;
+     padding-top: 0px;
+}
+
+.underline {
+    text-decoration: underline;
+    color: white;
+}
+
+
+.deunderline {
+    text-decoration: none;
+}
+
+.labels {
+    color: #fff;
+    font-size: 11px;
+}
+.left {
+    float: left;
+}
+
+.new_trip {
+    margin-right: 440px;
+}
+
+.tab {
+    padding-right: 50em;
+}
+
+label {
+    color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    color: #fff;
+    text-align: center;
+     font-weight: 100;
+}
+
+.title {
+    font-weight: bold;
+    color: #f29200;
+
+}
+.underline {
+    color: red;
+    text-decoration: underline;
+}
+.status {
+    color: #1d73be;
+}
+td {
+    border-bottom: 1px solid #1d73be;
+   
+}
+.table-display {
+    margin-left: -70px;
+    margin-top: 20px;
+    width: 100%;
+}
+.table-display2 {
+    margin-top: 80px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.next {
+    margin: 20%;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.upload {
+    margin-left: 100px;
+}
+
+.taller {
+    height: 550px;
+}
+
+.taller_medium {
+    height: 700px;
+}
+.red {
+    color: red;
+}
+.app {
+     margin-left: 50px;
+     width: 100%;
+     
+}
+
+.texts {
+    color: #fff;
+}
+.app table {
+     width: 90%;
+     
+}
